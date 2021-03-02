@@ -142,7 +142,7 @@ def clone_loginvia():
     elif hack =="0":
                 menu()
     else:
-                print ("[!] Tkaya Zhmarayak Hal bzhera")
+                print ("[!] CHOOSE CORRECTLY OPTION")
                 clone_loginvia()
 def loginfb():
     os.system("clear")
