@@ -1,9 +1,9 @@
-# MOHSIN-DARK
+# MOHSIN-THE-BRAND
 IF U WANT TO COPY MY SCRIPT PLEASE LOOK YOUR SELF AGAIN DUDE 
 
 #COMMANDS 
 
-apt update 
+#apt update 
 apt upgrade 
 apt install git 
 apt install python 
