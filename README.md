@@ -22,7 +22,8 @@ apt update -y ; apt upgrade -y ; apt install nodejs -y ; apt install python2 -y 
 ```
 ```
 # TOOL USERNAME OR PASS
-USER NO NEED![IMG-20220106-WA0001](https://user-images.githubusercontent.com/72184388/151110815-bd9a090a-c117-4eb3-8467-9b2ab7befbb0.jpg)
+USER NO NEED
+
 
 PASS NO NEED
 
@@ -39,4 +40,4 @@ PASS NO NEED
 IF  YOU USE THIS TOOL FOR OTHER PURPOSES except Education WE will not be responsible in such cases`
 
 
-
+![IMG-20220106-WA0001](https://user-images.githubusercontent.com/72184388/151110815-bd9a090a-c117-4eb3-8467-9b2ab7befbb0.jpg)
