@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+tool+for+fast+ids+cloning+)](https://git.io/typing-svg)
+
 ![IMG-20211122-WA0019](https://user-images.githubusercontent.com/72184388/151111155-bb0d4768-9eaf-4b6a-b281-2b0573a65b1e.jpg)
 ## Install script on Termux
 ```python
